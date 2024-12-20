@@ -12,7 +12,7 @@ const Footer = () => {
       <div>
         <div className="logoDiv">
           <h1 className="logo text-[25px] text-white pb-[.8rem]">
-            <strong>Naukri</strong>-Hub
+            <strong>Naukri</strong>-Lagao
           </h1>
         </div>
         <p className="text-white pb-[13px] text-[12px] opacity-70 leading-7">
@@ -75,7 +75,7 @@ const Footer = () => {
           Contact Info
         </span>
         <div className="text-[14px] text-white">
-          <small>info@naukrihub.com</small>
+          <small>info@naukrilagao.com</small>
           <div className="icons flex gap-4 py-[1rem]">
             <AiFillInstagram className="h-[20px] w-[20px] rounded-full icon" />
             <AiFillFacebook className="h-[20px] w-[20px] rounded-full icon" />
